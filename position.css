@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    display: flex;
+}
+.contenedor {
+    width: 1200px;
+    height: 600px;
+    background: greenyellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction:row;
+    gap: 5px;
+}
+
+.caja {
+ width: 150px;
+ height: 150px;
+ background: silver;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ border-radius: 5px;
+}
+
+.uno{
+    
+    background: blue;
+}
+.dos{
+    position: absolute;
+    background: none;
+    
+}
+.tres {
+    background: url(/img/1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
