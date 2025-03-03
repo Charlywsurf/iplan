@@ -66,21 +66,14 @@ main {
 .logo5 {
   color: rgb(5, 228, 5);
 }
-.logo_whats_login {
-  margin-right: 10px;
-  width: 300px;
-  display: flex;
-  justify-content: right;
-}
+
 .logo6 button {
   background: none;
   border: solid 1px black;
   border-radius: 3px;
   width: 100px;
 }
-.logo5 {
-  width: 40px;
-}
+
 
 .banner_t {
   height: 80px;
