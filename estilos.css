@@ -24,7 +24,7 @@ main {
   align-items: center;
 }
 .header {
-  max-width: 390px;
+  max-width: 350px;
   height: 60px;
   display: flex;
   align-items: center;
@@ -84,6 +84,7 @@ main {
 
 .banner_t {
   height: 80px;
+  max-width: 350px;
   background: #ed1f70;
   font-size: 3rem;
   color: white;
@@ -94,6 +95,7 @@ main {
 .contenedor_links {
   height: 150px;
   background: #057563;
+  max-width: 350px;
   margin: 0 auto;
   border-radius: 10px;
 }
@@ -137,7 +139,7 @@ main {
 }
 
 .contenedor_marcas {
-  max-width: 390px;
+  max-width: 350px;
   background: white;
   overflow: hidden;
   display: flex;
@@ -155,7 +157,7 @@ main {
   align-items: center;
   flex-wrap: wrap;
   border-radius: 10px;
-  max-width: 390px;
+  max-width: 350px;
 }
 .footer_l {
   color: white;
