@@ -68,10 +68,20 @@ main {
 }
 .logo_whats_login {
   margin-right: 10px;
-  width: 250px;
+  width: 300px;
   display: flex;
   justify-content: right;
 }
+.logo6 button {
+  background: none;
+  border: solid 1px black;
+  border-radius: 3px;
+  width: 150px;
+}
+.logo5 {
+  width: 40px;
+}
+
 
 .banner_t {
   max-width: 500px;
@@ -144,7 +154,7 @@ main {
 .footer {
   width: 500px;
   height: 200px;
-  background: rgb(223, 223, 158);
+  background: rgb(0, 0, 0);
   max-width: 500px;
   margin: 0 auto;
   display: flex;
@@ -153,7 +163,7 @@ main {
   border-radius: 10px;
 }
 .footer_l {
-  color: black;
+  color: white;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   width: 250px;
   font-size: 1.2rem;
